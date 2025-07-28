@@ -31,14 +31,14 @@ int romanToInt(char* s) {
     return total;
 }
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int value(char ch);
-int romanToInt(char* s);
+// int value(char ch);
+// int romanToInt(char* s);
 
-int main() {
-    char s[] = "MCMXCIV";
-    printf("Roman numeral: %s\n", s);
-    printf("Integer: %d\n", romanToInt(s));
-    return 0;
-}
+// int main() {
+//     char s[] = "MCMXCIV";
+//     printf("Roman numeral: %s\n", s);
+//     printf("Integer: %d\n", romanToInt(s));
+//     return 0;
+// }
